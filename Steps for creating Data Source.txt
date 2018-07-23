@@ -1,0 +1,2 @@
+Control Panel  => Administrative Tools => Data Sources(ODBC) =>
+User DSN => add => DSN NAME => SELECT DATABASE => OK   
